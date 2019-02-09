@@ -1,0 +1,4 @@
+
+1. $ npm install -g angular-cli-ghpages
+2. ng build --prod --output-path <your_repo_name> --base-href="https://<your_github_user-name>.github.io/<your_repo_name>/"
+3. ngh --dir=dist/<your_repo_name>
